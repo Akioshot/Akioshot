@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**Akioshot/Akioshot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Akio**, an aspiring developer from Brazil 🇧🇷  
+I enjoy building games, learning about Artificial Intelligence, and creating fun projects with code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## These days I'm focused on:
+
+- 🎮 Game development with **C++**
+- 🤖 Learning **Artificial Intelligence**
+- 💻 Coding projects using **Java** and **Lua**
+- 🌱 Improving my skills step by step
+
+---
+
+## Some stuff I built:
+
+- 🕹️ **C++ Games** — small games and mechanics built from scratch  
+- ⚙️ **Lua Scripts** — experiments and game scripting projects  
+- 📚 **Learning AI Projects** — beginner-friendly AI studies and future experiments  
+
+*(More coming soon!)*
+
+---
+
+## Fun Facts:
+
+- 🇯🇵 I speak **Portuguese, English, and Japanese**
+- 🎌 I love anime and geek culture
+- 🚀 Always excited to learn new things
+
+---
+
+### Thanks for visiting my profile! ⭐
