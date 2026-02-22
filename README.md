@@ -5,8 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=22&center=true&vCenter=true&width=600&lines=C%2B%2B+Game+Developer;Learning+Artificial+Intelligence;Java+%7C+Lua+Programmer;Always+Building+Something+New" />
 </p>
 
----
-
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/235589685?v=4" width="230" style="border-radius:20px; border: 3px solid #00ffaa;" />
 </p>
