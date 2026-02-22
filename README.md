@@ -1,35 +1,63 @@
-# Hi there! 👋
+<h1 align="center">Hi 👋 I'm Akio</h1>
+<h3 align="center">Aspiring Developer from Brazil 🇧🇷</h3>
 
-I'm **Akio**, an aspiring developer from Brazil 🇧🇷  
-I enjoy building games, learning about Artificial Intelligence, and creating fun projects with code.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=22&center=true&vCenter=true&width=600&lines=C%2B%2B+Game+Developer;Learning+Artificial+Intelligence;Java+%7C+Lua+Programmer;Always+Building+Something+New" />
+</p>
 
 ---
 
-## These days I'm focused on:
+## 👨‍💻 About Me
 
-- 🎮 Game development with **C++**
+- 🎮 Building games with **C++**
 - 🤖 Learning **Artificial Intelligence**
-- 💻 Coding projects using **Java** and **Lua**
-- 🌱 Improving my skills step by step
+- 💻 Coding in **Java & Lua**
+- 🌎 Trilingual: Portuguese, English & Japanese
+- 🚀 Focused on growth
 
 ---
 
-## Some stuff I built:
+## 🛠️ Tech Stack
 
-- 🕹️ **C++ Games** — small games and mechanics built from scratch  
-- ⚙️ **Lua Scripts** — experiments and game scripting projects  
-- 📚 **Learning AI Projects** — beginner-friendly AI studies and future experiments  
-
-*(More coming soon!)*
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,lua,python,git,linux" />
+</p>
 
 ---
 
-## Fun Facts:
+## 🔗 Connect With Me
 
-- 🇯🇵 I speak **Portuguese, English, and Japanese**
-- 🎌 I love anime and geek culture
-- 🚀 Always excited to learn new things
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+</p>
 
 ---
 
-### Thanks for visiting my profile! ⭐
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Akioshot&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akioshot&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🖼️ Anime Vibe
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/235589685?v=4" width="250" style="border-radius:15px;"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+⭐ Thanks for visiting my profile!
