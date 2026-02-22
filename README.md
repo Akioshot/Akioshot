@@ -51,15 +51,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Akioshot&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akioshot&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
