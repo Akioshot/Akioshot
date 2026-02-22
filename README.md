@@ -7,20 +7,18 @@
 
 ---
 
-## 👨‍💻 About Me
-
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/235589685?v=4" width="230" style="border-radius:20px; border: 3px solid #00ffaa;" />
 </p>
 
+<h3 align="center">About Me</h3>
+
 <p align="center">
-
-- 🎮 Building games with **C++**  
-- 🤖 Learning **Artificial Intelligence**  
-- 💻 Coding in **Java & Lua**  
-- 🌎 Trilingual: Portuguese, English & Japanese  
-- 🚀 Focused on growth  
-
+🎮 C++ Game Developer <br>
+🤖 Learning Artificial Intelligence <br>
+💻 Java & Lua Programmer <br>
+🌎 PT | EN | JP <br>
+🚀 Always Growing
 </p>
 
 ---
