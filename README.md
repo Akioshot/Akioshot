@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Developer from Brazil 🇧🇷</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=22&center=true&vCenter=true&width=600&lines=C%2B%2B+Game+Developer;Learning+Artificial+Intelligence;Java+%7C+Lua+Programmer;Always+Building+Something+New" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=808080&size=22&center=true&vCenter=true&width=600&lines=C%2B%2B+Game+Developer;Learning+Artificial+Intelligence;Java+%7C+Lua+Programmer;Always+Building+Something+New" />
 </p>
 
 <p align="center">
